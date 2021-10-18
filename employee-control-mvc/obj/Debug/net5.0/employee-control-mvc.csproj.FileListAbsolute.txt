@@ -38,3 +38,4 @@ C:\GitHub\Estudo\employee-control-mvc\employee-control-mvc\obj\Debug\net5.0\ref\
 C:\GitHub\Estudo\employee-control-mvc\employee-control-mvc\obj\Debug\net5.0\employee-control-mvc.pdb
 C:\GitHub\Estudo\employee-control-mvc\employee-control-mvc\obj\Debug\net5.0\employee-control-mvc.genruntimeconfig.cache
 C:\GitHub\Estudo\employee-control-mvc\employee-control-mvc\obj\Debug\net5.0\employee-control-mvc.csproj.CopyComplete
+C:\GitHub\Estudo\employee-control-mvc\employee-control-mvc\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
